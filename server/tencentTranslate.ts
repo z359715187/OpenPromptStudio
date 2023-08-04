@@ -17,7 +17,7 @@ let useTencentClient = useOf(() => {
     }
     // 实例化要请求产品的client对象,clientProfile是可选的
     //     腾讯云 API 文档
-    //     https://cloud.tencent.com/document/api/551/15619
+    //     https://translate.google.com/?hl=zh-CN
     //
     return new TmtClient(clientConfig)
 })
